@@ -5,8 +5,6 @@
 <div>
 <img src="https://i.imgur.com/h1uJISw_d.webp?maxwidth=760&fidelity=grand" width=400> 
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width=400> 
-<!-- illustrate image by pngtree.com -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrmtdev&theme=blue-green)
 
@@ -22,7 +20,10 @@
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
+
 -----------------
+
+
 
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
@@ -31,7 +32,11 @@
 
 ----------
 
-<p style="font-weight: 600"> Interesses futuros: </p>
+<div>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width=400> 
+</div>
+
+<p style="font-weight: 300; font-size: 2rem;"> Futuros interesses: </p>
 
 [![My Skills](https://skillicons.dev/icons?i=angular,typescript,graphql,nextjs)](https://skillicons.dev)
 
