@@ -2,7 +2,9 @@
 <div align="center">
 <h1 style="font-weight: 600">Olá! Seja bem-vindo(a) ao meu Github👋</h1>
 <p style="font-weight: 500">⚜️ Sou um estudante programador front-end e UI/UX ⚜️ </p>
+<div>
 <img src="https://i.imgur.com/h1uJISw_d.webp?maxwidth=760&fidelity=grand" width=400> 
+</div>
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width=400> 
 <!-- illustrate image by pngtree.com -->
 
