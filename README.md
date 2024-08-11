@@ -5,10 +5,11 @@
 <div>
 <img src="https://i.imgur.com/h1uJISw_d.webp?maxwidth=760&fidelity=grand" width=400> 
 </div>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrmtdev&theme=blue-green)
-
+  
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=vrmtdev&show_icons=true&theme=midnight-purple" alt="vrmtdev's GitHub stats" />
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrmtdev&theme=blue-green" alt="Top Langs" />-->
+</div>
 
 <h1 style="font-weight: 300">Tecnologias:</h1>
 
@@ -41,6 +42,6 @@
 
 <p style="font-weight: 300; font-size: 2rem;"> Futuros interesses: </p>
 
-[![My Skills](https://skillicons.dev/icons?i=angular,typescript,graphql,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,typescript,graphql,nextjs,nodejs,mysql)](https://skillicons.dev)
 
 </div>
