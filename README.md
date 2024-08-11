@@ -7,7 +7,9 @@
 </div>
   
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=vrmtdev&show_icons=true&theme=midnight-purple" alt="vrmtdev's GitHub stats" />
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrmtdev&theme=midnight-purple)
+  
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrmtdev&theme=blue-green" alt="Top Langs" />-->
 </div>
 
