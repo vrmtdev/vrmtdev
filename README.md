@@ -6,8 +6,8 @@
 <img src="https://i.imgur.com/h1uJISw_d.webp?maxwidth=760&fidelity=grand" width=400> 
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrmtdev&theme=blue-green)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrmtdev&theme=blue-green)
 
 
 <h1 style="font-weight: 300">Tecnologias:</h1>
@@ -35,6 +35,9 @@
 <div>
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width=400> 
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vrmtdev&bg_color=160920&color=9e4c98&line=7a12e2&point=3e3838&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <p style="font-weight: 300; font-size: 2rem;"> Futuros interesses: </p>
 
