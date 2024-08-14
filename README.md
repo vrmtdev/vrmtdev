@@ -58,18 +58,14 @@
 <img src="https://i.imgur.com/2D4vCIp.gif" width=100>
 <img src="https://i.imgur.com/2D4vCIp.gif" width=100>
 </div>
-----------
+
 <!---
 <div>
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width=400> 
 </div>
 --->
 <div style="display: flex; justify-content: space-between;"> 
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vrmtdev&bg_color=000000&color=ffffff&line=ffffff&point=3e3838&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<p style="font-weight: 300; font-size: 6rem;"> Futuros interesses: </p>
+<h1> Futuros interesses </h1>
 
 <img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=white">
 <img src="https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript&logoColor=white">
@@ -82,5 +78,10 @@
 <!--
 [![My Skills](https://skillicons.dev/icons?i=angular,typescript,graphql,nextjs,nodejs,mysql)](https://skillicons.dev)
 -->
+
+-------------------
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vrmtdev&bg_color=000000&color=ffffff&line=ffffff&point=3e3838&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 </div>
