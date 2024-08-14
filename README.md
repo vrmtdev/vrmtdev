@@ -3,21 +3,16 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=New+Amsterdam&weight=800&size=32&duration=3500&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=750&lines=Ol%C3%A1!+Seja+bem-vindo(a)+ao+meu+Github+%F0%9F%91%8B)](https://git.io/typing-svg)
 <!--<h1 style="font-weight: 600">Olá! Seja bem-vindo(a) ao meu Github👋</h1>
-<p style="font-weight: 500">⚜️ Sou um estudante programador front-end e UI/UX ⚜️ </p>--->
+<p style="font-weight: 500">⚜️ Sou um estudante programador front-end e UI/UX ⚜️ </p>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&duration=3500&pause=1000&color=722EF7&center=true&vCenter=true&width=435&lines=Sou+Frond-end+developer+e+UI%2FUX+designer.)](https://git.io/typing-svg)
-  <br>
-  <br>
-  <br>
+  --->
   <br>
   <br>
 <div>
 <img src="https://i.imgur.com/h1uJISw_d.webp?maxwidth=760&fidelity=grand" width=400> 
 </div>
 
-  <br>
-  <br>
-  <br>
   <br>
   <br>
   
