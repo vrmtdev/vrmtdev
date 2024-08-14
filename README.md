@@ -1,10 +1,23 @@
 
 <div align="center">
 <h1 style="font-weight: 600">Olá! Seja bem-vindo(a) ao meu Github👋</h1>
-<p style="font-weight: 500">⚜️ Sou um estudante programador front-end e UI/UX ⚜️ </p>
+<!--<p style="font-weight: 500">⚜️ Sou um estudante programador front-end e UI/UX ⚜️ </p>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&duration=3500&pause=1000&color=722EF7&center=true&vCenter=true&width=435&lines=Frond-end+developer;UI%2FUX+designer)](https://git.io/typing-svg)
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
 <div>
 <img src="https://i.imgur.com/h1uJISw_d.webp?maxwidth=760&fidelity=grand" width=400> 
 </div>
+
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
   
 <div style="display: flex; justify-content: space-between;">
   
@@ -12,7 +25,6 @@
   
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrmtdev&theme=blue-green" alt="Top Langs" />-->
 </div>
-
 <h1 style="font-weight: 300">Tecnologias:</h1>
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
