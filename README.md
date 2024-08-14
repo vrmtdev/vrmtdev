@@ -1,7 +1,7 @@
 
 <div align="center">
 <h1 style="font-weight: 600">Olá! Seja bem-vindo(a) ao meu Github👋</h1>
-<!--<p style="font-weight: 500">⚜️ Sou um estudante programador front-end e UI/UX ⚜️ </p>
+<!--<p style="font-weight: 500">⚜️ Sou um estudante programador front-end e UI/UX ⚜️ </p>--->
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&duration=3500&pause=1000&color=722EF7&center=true&vCenter=true&width=435&lines=Frond-end+developer;UI%2FUX+designer)](https://git.io/typing-svg)
   <br>
